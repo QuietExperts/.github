@@ -1,12 +1,13 @@
-## Hi there 👋
+## 저장소 링크
 
-<!--
+  * **TIL**: [TIL](https://dumbbelloper.gitbook.io/notepad/)
+  * **Web**: [Web Repository](https://github.com/QuietExperts/web)
+  * **Backoffice**: [Backoffice Repository](https://github.com/QuietExperts/backoffice)
+  * **Gateway**: [Gateway Repository](https://github.com/QuietExperts/backoffice)
+  * **Backend**: [Backend Repository](https://github.com/QuietExperts/backend)
+  * **Batch**: [Batch Repository](https://github.com/QuietExperts/batch)
+  * **Config**: [Config Repository](https://github.com/QuietExperts/config)
+  * **Secret**: [Secret Repository](https://github.com/QuietExperts/secret)
+  * **IaC**: [IaC Repository](https://github.com/QuietExperts/IaC)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+-----
